@@ -82,5 +82,6 @@ Dashboard → Displays real-time insights
 
 * All facial data is processed locally (Edge AI)
 * No cloud storage or external API calls
-* Ensures complete control over sensitive biometric data
+* Provides full control over sensitive biometric data.
+
 
