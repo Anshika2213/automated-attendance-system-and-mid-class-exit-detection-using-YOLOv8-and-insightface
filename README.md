@@ -1,4 +1,4 @@
-# 📊 AI-Powered Real-Time Classroom Monitoring System
+# 📊 Automated-Attendance System and Mid-Class Exit Detection Using YOLOv8 and Insightface
 
 An automated, high-precision attendance tracking system that leverages Edge AI to monitor student presence, detect unauthorized exits (“bunking”), and ensure complete data privacy.
 
